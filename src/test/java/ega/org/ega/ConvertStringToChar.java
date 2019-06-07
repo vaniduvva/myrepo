@@ -16,6 +16,7 @@ public class ConvertStringToChar {
 	  {
 		  
 		  char ch = s.charAt(i);
+		  System.out.println("each repo");
 		  System.out.println("each character of string    "+s+"  is: " +ch);
 	  }
   }
