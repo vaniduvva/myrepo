@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2019-05-31T06:50:29Z" finished-at="2019-05-31T06:50:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2019-05-31T06:50:29Z" finished-at="2019-05-31T06:50:29Z">
+      <class name="ega.org.ega.ConvertStringToChar">
+        <test-method status="PASS" signature="EgOfConvertStringToChar()[pri:0, instance:ega.org.ega.ConvertStringToChar@42d8062c]" name="EgOfConvertStringToChar" duration-ms="9" started-at="2019-05-31T06:50:29Z" finished-at="2019-05-31T06:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EgOfConvertStringToChar -->
+      </class> <!-- ega.org.ega.ConvertStringToChar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
